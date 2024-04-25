@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+#register{
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 5rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  border-radius: 10px;
+}
+#login{
+  display: none;
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 5rem;
+  padding-top: 0.3rem;
+  padding-bottom: 1rem;
+  border-radius: 10px;
+}
